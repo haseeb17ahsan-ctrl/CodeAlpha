@@ -1,0 +1,36 @@
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Windows 10/11, macOS, or Linux
+- Python 3.13 or higher
+- Administrator/root access (required for packet capture)
+
+### Installation
+
+#### 1. Install Python
+
+Download from [python.org](https://python.org/downloads/) and **ensure "Add Python to PATH" is checked** during installation.
+
+Verify installation:
+```bash
+python --version
+
+install require library.
+
+
+pip install scapy
+
+or
+
+py -m pip install scapy
+
+
+HOW TO RUN
+
+1.open terminal .
+2.run 
+ python sniffer.py
+       or
+ py sniffer.py
